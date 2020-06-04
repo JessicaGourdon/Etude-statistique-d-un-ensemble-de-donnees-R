@@ -1,0 +1,75 @@
+Num,Category,Name,Unité,Traduction
+2147,Geography,Area,mètre carré,Superficie
+2119,People and Society,Population,,Population active
+2002,People and Society,Population growth rate,%age,Taux de croissance de la population
+2054,People and Society,Birth rate,naissance/1000pers,Taux de naissance
+2066,People and Society,Death rate,mort/1000pers,Taux de décés
+2112,People and Society,Net migration rate,migration/1000pers,Taux de migration net
+2223,People and Society,Maternal mortality rate,Death/100000 naissance,Taux de mortalité maternelle
+2091,People and Society,Infant mortality rate,Death/1000 naissance,Taux de mortalité infantile
+2102,People and Society,Life expectancy at birth,,Espérance de vie à la naissance
+2127,People and Society,Total fertility rate,naissance/femme,Taux de fécondité total
+2225,People and Society,Health expenditures,%age GDP,Dépenses de santé
+2155,People and Society,HIV/AIDS - adult prevalence rate,%age,VIH / SIDA – taux de prévalence chez les adultes
+2156,People and Society,HIV/AIDS - people living with HIV/AIDS,,VIH / SIDA – personne vivant avec
+2157,People and Society,HIV/AIDS - deaths,,VIH / SIDA – mort
+2228,People and Society,Obesity - adult prevalence rate,%age,Obésité – taux de prévalence chez l’adulte
+2224,People and Society,Children under the age of 5 years underweight,%age,Enfant de moins de 5 ans en insuffisance pondérale
+2206,People and Society,Education expenditures,%age GDP,Dépenses dans l’éducation
+2229,People and Society,"Unemployment, youth ages 15-24",%age,Sans emploi pour les âges 15-24
+2001,Economy,GDP (purchasing power parity),,PIB
+2003,Economy,GDP - real growth rate,%age,PIB – taux de croissance réel
+2004,Economy,GDP - per capita (PPP),par habitant,PIB – par habitant
+2260,Economy,Gross national saving,%age GDP,Epargne nationale brute
+2089,Economy,Industrial production growth rate,%age,Taux de croissance de la production industrielle
+2095,Economy,Labor force,,Population active
+2129,Economy,Unemployment rate,%age,Population active sans emploi
+2172,Economy,Distribution of family income - Gini index,"in [0,100], 0=distribution équitable, 100=distribution inéquitable",Répartition de revenu familial
+2221,Economy,Taxes and other revenues,%age GDP,Impôts et autres revenus
+2222,Economy,Budget surplus (+) or deficit (-),%age GDP,Excédent (+) ou déficit (-) budgétaire
+2186,Economy,Public debt,%age GDP,Dette publique
+2092,Economy,Inflation rate (consumer prices),%age,Taux d’inflation (prix à la consommation)
+2207,Economy,Central bank discount rate,%age,Taux d’escompte de la banque centrale
+2208,Economy,Commercial bank prime lending rate,%age,Taux préféretiel des banques commerciales
+2214,Economy,Stock of narrow money,$,Stock monnaie au sens étroit
+2215,Economy,Stock of broad money,$,Stock monnaie au sens large
+2211,Economy,Waterways economy,$,Economie sur voie navigable
+2200,Economy,Market value of publicly traded shares,$,Valeur marchande des actions cotées en bourse
+2187,Economy,Current account balance,$,Solde du compte courant
+2078,Economy,Exports,$,Exports
+2087,Economy,Imports,$,Imports
+2188,Economy,Reserves of foreign exchange and gold,$,Réserves de devises et d’or
+2079,Economy,Debt - external,$,Dette – extérieure
+2198,Economy,Stock of direct foreign investment - at home,$,Stock d’investissement étranger direct – au pays
+2199,Economy,Stock of direct foreign investment - abroad,$,Stock d’investissement étranger direct – à l’étranger
+2232,Energy,Electricity - production,kWh,Electricité – Production
+2233,Energy,Electricity - consumption,kWh,Electricité – Consommation
+2234,Energy,Electricity - exports,kWh,Electricité – Exportations
+2235,Energy,Electricity - imports,kWh,Electricité – Imports
+2236,Energy,Electricity - installed generating capacity,kWh,Electricité – Capacité de production installée
+2237,Energy,Electricity - from fossil fuels,%age de la capacité totale installée,Electricité – A partir de combustible fossiles
+2239,Energy,Electricity - from nuclear fuels,%age de la capacité totale installée,Electricité – A partir de combustibles nucléaires
+2238,Energy,Electricity - from hydroelectric plants,%age de la capacité totale installée,Electricité – A partir de centrales hydroélectriques
+2240,Energy,Electricity - from other renewable sources,%age de la capacité totale installée,Electricité – A partir d’autres sources renouvelables
+2241,Energy,Crude oil - production,barrels per day,Pétrole brut - production
+2242,Energy,Crude oil - exports,barrels per day,Pétrole brut – exportations
+2243,Energy,Crude oil - imports,barrels per day,Pétrole brut – importations
+2244,Energy,Crude oil - proved reserves,barrels,Pétrole brut – réserves prouvées
+2245,Energy,Refined petroleum products - production,barrels per day,Produits pétroliers raffinés – production
+2246,Energy,Refined petroleum products - consumption,barrels per day,Produits pétroliers raffinés – consommation
+2247,Energy,Refined petroleum products - exports,barrels per day,Produits pétroliers raffinés – exportations
+2248,Energy,Refined petroleum products - imports,barrels per day,Produits pétroliers raffinés – importations
+2249,Energy,Natural gas - production,cubic meters,Gaz naturel – production
+2250,Energy,Natural gas - consumption,cubic meters,Gaz naturel – consommation
+2251,Energy,Natural gas - exports,cubic meters,Gaz naturel – exportations
+2252,Energy,Natural gas - imports,cubic meters,Gaz naturel – importations
+2253,Energy,Natural gas - proved reserves,cubic meters,Gaz naturel – réserves prouvées
+2150,Communications,Telephones - fixed lines,,Téléphones – lignes fixes
+2151,Communications,Telephones - mobile cellular,,Téléphones –  mobile cellulaire
+2153,Communications,Internet users,,Utilisateurs d’internet
+2053,Transportation,Airports,,Aéroports
+2121,Transportation,Railways,km,Chemins de fer
+2085,Transportation,Roadways,km,Chaussées
+2093,Transportation,Waterways,km,Voies navigables
+2108,Transportation,Merchant marine,nombre de bateau commercial publique ou privé,Marine marchande
+2034,Military,Military expenditures,%age GDP,Dépenses militaires
