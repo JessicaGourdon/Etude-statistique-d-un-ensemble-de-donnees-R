@@ -13,4 +13,4 @@ The World FactBook de 2015 est produite par la CIA annuellement et contient des 
 Ce projet s'est réalisé en 2 étapes : la construction de la base de données avec `Manipulation.R` et la recherche de corrélations avec `projet.rmd`
 
 Voici un exemple de corrélation : 
-![alt text](https://github.com/JulienChoukroun/Modelisation-de-la-propagation-d-une-epidemie-Python/blob/master/Images/SystemeEquations.png "Système d'équations de départ")
+![alt text](https://github.com/JulienChoukroun/Etude-statistique-d-un-ensemble-de-donnees/blob/master/Images/Resultat.png "Exemple de résultat")
