@@ -1,6 +1,6 @@
 Ce projet est réalisé dans le cadre de la formation de cycle d'ingénieur (première année) de l'Ecole Polytechnique de l'Université Côte d'Azur.
 ***
-# Etude statistique d'un ensemble de données
+# Étude statistique d'un ensemble de données
 
 ## Présentation
 Ce projet a été réalisé avec le langage R.
